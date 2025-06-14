@@ -12,7 +12,7 @@
 ---
 
 - 👨‍💻 Como ingeniero de software, estoy constantemente aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades.
-- 💬 Experiencia en desarrollo de aplicaciones móviles, aprendizaje automático.
+- 💬 Experiencia en desarrollo de aplicaciones móviles, Fronted, Backend y aprendizaje automático.
 
 ## 🛠 &nbsp;Pila de tecnología
 
